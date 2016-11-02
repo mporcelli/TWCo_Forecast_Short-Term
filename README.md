@@ -15,7 +15,7 @@ This API returns weather content consisting of forecasted weather for the next 1
 ---
 # Reference
 [The Weather Company](http://www.theweathercompany.com/)  
-[TWCo Forecast Daily](http://goo.gl/AoxGl3)
+[TWCo Forecast Short-Term](http://goo.gl/mlLMKm)
 
 ---
 #Requirements
